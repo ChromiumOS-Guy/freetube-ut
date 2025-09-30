@@ -1,0 +1,4 @@
+[submodule "crackle"]
+	path = crackle
+	url = https://gitlab.com/tuxecure/crackle-apt/crackle.git
+    branch = v0.5.4.1

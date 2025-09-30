@@ -1,0 +1,10 @@
+{
+    "policy_groups": [
+        "video",
+        "audio",
+        "networking",
+        "keep-display-on"
+    ],
+    "policy_version": 2404.1,
+    "template": "unconfined"
+}

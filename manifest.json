@@ -1,0 +1,16 @@
+{
+    "name": "freetube-ut.chromiumos-guy",
+    "description": "FreeTube UT ia a port of freetube to ubuntu touch.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "FreeTube UT",
+    "hooks": {
+        "freetube-ut": {
+            "apparmor": "freetube-ut.apparmor",
+            "desktop":  "freetube-ut.desktop",
+            "urls": "freetube-ut.url-dispatcher"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "ChromiumOS-Guy <email@domain.org>",
+    "framework" : "ubuntu-touch-24.04-1.x"
+}

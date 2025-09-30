@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=FreeTube UT
+Exec=freetube-ut.sh %u
+Icon=app/usr/share/icons/hicolor/scalable/freetube.svg
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
