@@ -5,9 +5,11 @@ FreeTube UT is a privacy-focused YouTube client for Ubuntu Touch, built on top o
 
 Something in the way i path freetube or pack it breaks OSK, this is consistant and sometimes i get a build that has working OSK and i have no idea how or why this happens.
 
-MESA_LOADER is hardcoded so no wayland until that get fixed and you can't submit an issue to freetube because the don't allow non-contributors to port new issues on github.
+MESA_LOADER is hardcoded so no wayland until that gets fixed and you can't submit an issue to freetube because they don't allow non-contributors to port new issues on github.
 
-is affected by this [bug](https://gitlab.com/ubports/development/core/lomiri/-/merge_requests/207), and all the Xwayland bugs and problems.
+Is affected by this [bug](https://gitlab.com/ubports/development/core/lomiri/-/merge_requests/207), and all the Xwayland bugs and problems.
+
+Can support focal i just opted to use Noble sdk.
 
 ## License
 
